@@ -1,5 +1,5 @@
 # Robot-arm-package-simulator
-obots are usually expensive and quite susceptible to damage and undesired interaction with themselves or their surroundings. Three-dimensional simulation is a sustainable method to test and rapidly iterate during robot application development. Robot Operating System (ROS) is a middleware for multiple robot software tools and also provides simulation platforms like Rviz and Gazebo.
+Robots are usually expensive and quite susceptible to damage and undesired interaction with themselves or their surroundings. Three-dimensional simulation is a sustainable method to test and rapidly iterate during robot application development. Robot Operating System (ROS) is a middleware for multiple robot software tools and also provides simulation platforms like Rviz and Gazebo.
 
 This article shows how to create a ROS package for a simple 4-DOF robot arm and simulate a predefined joint path in Rviz. The code repository can be found on GitHub.
 
